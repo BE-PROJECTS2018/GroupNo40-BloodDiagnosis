@@ -1,0 +1,8 @@
+<root>
+    <item name='com.android.volley.Response'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item name='com.android.volley.Response.ErrorListener'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
